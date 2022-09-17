@@ -200,13 +200,8 @@ addEventListener(
 * 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) `推荐`
 * 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
 
-### 特别感谢 ：
 
-* [mixool](https://github.com/mixool/)
-* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
-* [yxhit](https://github.com/yxhit)
-* [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
-* [[google](https://google.com/)]由于CloudFlare的dev被封CloudFlare Pages 反代脚本分享
+* 由于CloudFlare的dev被封CloudFlare Pages 反代脚本分享
 <details>
  
  <summary>CloudFlare Workers单日反代代码</summary>
