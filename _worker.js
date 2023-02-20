@@ -1,10 +1,10 @@
 export default {
     async fetch(request, env) {
-      const Day0 = 'ae3000.herokuapp.com'
-      const Day1 = 'ae3001.herokuapp.com'
-      const Day2 = 'ae3002.herokuapp.com'
-      const Day3 = 'ae3003.herokuapp.com'
-      const Day4 = 'ae3004.herokuapp.com'
+      const Day0 = 'a.ae1085.eu.org'
+      const Day1 = 'a.ae1085.eu.org'
+      const Day2 = 'a.ae1085.eu.org'
+      const Day3 = 'a.ae1085.eu.org'
+      const Day4 = 'a.ae1085.eu.org'
       let host = ''
       let nd = new Date();
         let day = nd.getDate() % 5;
