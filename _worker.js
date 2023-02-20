@@ -1,10 +1,10 @@
 export default {
     async fetch(request, env) {
-      const Day0 = '4klu.yooki.workers.dev'
-      const Day1 = '4klu.yooki.workers.dev'
-      const Day2 = '4klu.yooki.workers.dev'
-      const Day3 = '4klu.yooki.workers.dev'
-      const Day4 = '4klu.yooki.workers.dev'
+      const Day0 = '1.workers.dev'
+      const Day1 = '1.workers.dev'
+      const Day2 = '1.workers.dev'
+      const Day3 = '1.workers.dev'
+      const Day4 = '1.workers.dev'
       let host = ''
       let nd = new Date();
         let day = nd.getDate() % 5;
