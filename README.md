@@ -323,7 +323,10 @@ export default {
   },
 };
 
- <summary>CloudFlare Workers单日反代代码</summary>
+ </details>
+
+<details>
+ <summary>CloudFlare pages单日反代代码</summary>
  
  ```js
  export default {
@@ -339,4 +342,4 @@ export default {
     }
   };
  
-<summary>CloudFlare pages单日反代代码</summary>
+
