@@ -323,7 +323,7 @@ export default {
   },
 };
 
- </details>
+</details>
 
 <details>
  <summary>CloudFlare pages单日反代代码</summary>
