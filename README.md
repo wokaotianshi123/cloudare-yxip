@@ -327,6 +327,6 @@ export default {
 </details>
 
 <details>
-<summary>CloudFlare Workers一周轮换反代代码</summary>
+<summary>CloudFlare pages反代代码</summary>
 
 ```js
