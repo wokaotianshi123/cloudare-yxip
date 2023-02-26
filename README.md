@@ -204,7 +204,7 @@ addEventListener(
 * 由于CloudFlare的dev被封CloudFlare Pages 反代脚本分享
 <details>
  
- <summary>CloudFlare Workers单日反代代码</summary>
+ <summary>CloudFlare pages单日反代代码</summary>
  
  ```js
  export default {
@@ -223,7 +223,7 @@ addEventListener(
 
 <details>
  
-<summary>CloudFlare Workers单双日轮换反代代码</summary>
+<summary>CloudFlare pages单双日轮换反代代码</summary>
 
 ```js
 export default {
@@ -248,7 +248,7 @@ export default {
 </details>
 
 <details>
-<summary>CloudFlare Workers五天轮换反代代码</summary>
+<summary>CloudFlare pages五天轮换反代代码</summary>
 
 ```js
  export default {
@@ -284,7 +284,7 @@ export default {
 </details>
 
 <details>
-<summary>CloudFlare Workers一周轮换反代代码</summary>
+<summary>CloudFlare pages一周轮换反代代码</summary>
 
 ```js
  export default {
